@@ -63,7 +63,7 @@ if (question5 === 'n' || question5 === 'no') {
 alert(`Thanks for playing ${visitorname}! Come back soon!`);
 
 
-window.onscroll = function () { myFunction() };
+window.onscroll = function () { myFunction() } ;
 
 let header = document.getElementById('myHeader');
 
