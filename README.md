@@ -1,12 +1,11 @@
 # About Me Project
-## LAB 2
-Project Name
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
 
-Author: Student/Group Name
+## LAB 2
+
+### Author: Steven Rejdukowksi
+
+Lab 2 Project
+
+Started on Lab 2 and inserted javascript quiz as well as bio in html
+
 Links and Resources
-submission PR
-Any Links you used as reference
-Reflections and Comments
-Consider including the answers to your daily journal and submission questions here
-This is also a good place to reflect on the tools and resources used and learned
