@@ -1,9 +1,14 @@
 body {
-  background-color: coral;
+  background-color: #3a5a40;
   
 }
 
 h1 {
-  color: blue;
+  color: #a3b18a;
   font-size: 60px;
+}
+
+p {
+  color: #dad7cd;
+  font-size: 20px;
 }
