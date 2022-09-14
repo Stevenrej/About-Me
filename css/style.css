@@ -8,7 +8,7 @@ header {
 
   text-align: center;
   padding: 1vw;
-  text-shadow: 1vw 1vw 1vw rgb(0, 0, 0);
+  text-shadow: .5vw .5vw .5vw rgb(0, 0, 0);
 }
 
 
@@ -16,7 +16,7 @@ header {
 h1 {
   color: #a3b18a;
   font-size: 5vw;
-  font-family: fantasy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding-top: 1vw;
 }
 
@@ -37,7 +37,8 @@ p {
   color: #dad7cd;
   font-size: 2vw;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 5vw
+  padding: 5vw;
+  text-shadow: .25vw .25vw .25vw rgba(0, 0, 0, 0.725);
 }
 
 img {
