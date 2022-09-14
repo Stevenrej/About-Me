@@ -4,7 +4,7 @@ console.log('whats up?');
 
 let visitorname = prompt('What is your name?');
 
-alert(`Welcome to my site ${visitorname}! So glad you are here! Please answer these next few questions the best you can!`);
+alert(`Welcome to my site ${visitorname}! So glad you are here! Please answer these next few yes or no questions the best you can!`);
 
 
 let question1 = prompt('Do I live in Chicago?').toLowerCase();
