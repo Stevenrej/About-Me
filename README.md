@@ -7,3 +7,7 @@
 Lab 2 Project
 
 Started on Lab 2 and inserted javascript quiz as well as bio in html
+
+## LAB 3
+
+
