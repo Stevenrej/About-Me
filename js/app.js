@@ -94,7 +94,7 @@ let numTrys = 0;
 let correct = false;
 
 while (numTrys < 6 && correct === false) {
-  let question7 = prompt('Name a favorite musical arists of mine that isnt my boy Michael Jackson').toLowerCase();
+  let question7 = prompt('Name a favorite musical arists of mine that isnt my boy Michael Jackson, beware you have six chances!').toLowerCase();
   for (let i = 0; i < band.length; i++) {
     if (band[i] === question7) {
       alert(`Yay thats one! Heres my whole list: ${band}.`);
