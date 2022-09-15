@@ -4,11 +4,18 @@ console.log('whats up?');
 
 let score = 0;
 
+function promptInter(){
+
+
+
 let visitorname = prompt('What is your name?');
 
 alert(`Welcome to my site ${visitorname}! So glad you are here! Please answer this quiz the best you can!`);
+}
+promptInter();
 
 
+function chicago(){
 let question1 = prompt('Do I live in Chicago?').toLowerCase();
 
 if (question1 === 'y' || question1 === 'yes') {
@@ -18,8 +25,11 @@ if (question1 === 'y' || question1 === 'yes') {
 } else {
   alert('Not a valid answer');
 }
+}
+chicago();
 
 
+function mustache(){
 let question2 = prompt('Do I have a mustache?').toLowerCase();
 
 if (question2 === 'y' || question2 === 'yes') {
@@ -29,8 +39,11 @@ if (question2 === 'y' || question2 === 'yes') {
 } else {
   alert('Not a valid answer');
 }
+}
 
+mustache();
 
+function color(){
 let question3 = prompt('Is my favorite color green?').toLowerCase();
 
 if (question3 === 'y' || question3 === 'yes') {
@@ -40,7 +53,10 @@ if (question3 === 'y' || question3 === 'yes') {
 } else {
   alert('Not a valid answer');
 }
+}
+color();
 
+function pets(){
 let question4 = prompt('I have no pets').toLowerCase();
 
 if (question4 === 'n' || question4 === 'no') {
@@ -50,8 +66,11 @@ if (question4 === 'n' || question4 === 'no') {
 } else {
   alert('Not a valid answer');
 }
+}
+pets();
 
 
+function country(){
 let question5 = prompt('I have never left the country').toLowerCase();
 
 if (question5 === 'n' || question5 === 'no') {
@@ -61,7 +80,11 @@ if (question5 === 'n' || question5 === 'no') {
 } else {
   alert('Not a valid answer');
 }
+}
+country();
 
+
+function year(){
 const year = 1982;
 
 let guess = 4;
@@ -81,10 +104,11 @@ while (question6 !== year && guess > 0) {
 if (guess < 1) {
   alert('You ran out of guesses, the correct answer was 1982!');
 }
-
+}
+year();
 
 // Dennis helped me figure out this last question.
-
+function bands(){
 const band = ['daft punk', 'phoenix', 'billy strings', 'smashing pumpkins', 'prince', 'phoebe bridgers', 'my bloody valentine', 'tycho', 'grateful dead', 'harry styles'];
 
 
@@ -110,6 +134,7 @@ while (numTrys < 6 && correct === false) {
 if (correct === false) {
   alert(`Sorry friend maybe next time, heres my list ${band}.`);
 }
-
+}
+bands();
 
 alert(`Thanks for taking my quiz, ${visitorname}. Your score was ${score} out of 7`);
