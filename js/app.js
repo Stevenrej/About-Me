@@ -109,7 +109,7 @@ while (numTrys < 6 && correct === false) {
   }
 }
 if (correct === false) {
-  alert(`Sorry friend maybe next time, here my list ${band}.`);
+  alert(`Sorry friend maybe next time, heres my list ${band}.`);
 }
 
 
