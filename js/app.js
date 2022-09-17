@@ -107,7 +107,8 @@ function year() {
 }
 year();
 
-// Dennis helped me figure out this last question.
+
+
 function bands() {
   const band = ['daft punk', 'phoenix', 'billy strings', 'smashing pumpkins', 'prince', 'phoebe bridgers', 'my bloody valentine', 'tycho', 'grateful dead', 'harry styles'];
 

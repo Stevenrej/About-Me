@@ -1,16 +1,8 @@
 # About Me Project
 
-## LAB 2
+## Author: Steven Rejdukowksi
 
-### Author: Steven Rejdukowksi
+### Lab 4
 
-Lab 2 Project
-
-Started on Lab 2 and inserted javascript quiz as well as bio in html
-
-## LAB 3
-
-
-## Lab 4
 Driver = Isaiah Mitchell
-Navigator = Steven Rejdukowski 
+Navigator = Steven Rejdukowski
